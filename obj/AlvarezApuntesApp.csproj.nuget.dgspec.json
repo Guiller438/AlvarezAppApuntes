@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julis\\OneDrive\\Desktop\\ProgramacionGuillermito\\AlvarezApuntesApp\\AlvarezApuntesApp.csproj": {}
+    "C:\\Users\\julis\\OneDrive\\Documents\\AlvarezApuntesApp\\AlvarezApuntesApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julis\\OneDrive\\Desktop\\ProgramacionGuillermito\\AlvarezApuntesApp\\AlvarezApuntesApp.csproj": {
+    "C:\\Users\\julis\\OneDrive\\Documents\\AlvarezApuntesApp\\AlvarezApuntesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julis\\OneDrive\\Desktop\\ProgramacionGuillermito\\AlvarezApuntesApp\\AlvarezApuntesApp.csproj",
+        "projectUniqueName": "C:\\Users\\julis\\OneDrive\\Documents\\AlvarezApuntesApp\\AlvarezApuntesApp.csproj",
         "projectName": "AlvarezApuntesApp",
-        "projectPath": "C:\\Users\\julis\\OneDrive\\Desktop\\ProgramacionGuillermito\\AlvarezApuntesApp\\AlvarezApuntesApp.csproj",
+        "projectPath": "C:\\Users\\julis\\OneDrive\\Documents\\AlvarezApuntesApp\\AlvarezApuntesApp.csproj",
         "packagesPath": "C:\\Users\\julis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julis\\OneDrive\\Desktop\\ProgramacionGuillermito\\AlvarezApuntesApp\\obj\\",
+        "outputPath": "C:\\Users\\julis\\OneDrive\\Documents\\AlvarezApuntesApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

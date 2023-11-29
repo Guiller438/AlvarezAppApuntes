@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>0ff63b3c-cd16-426f-9dd5-152a91d4bac8</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>EAB48F55D534BC721E7E0E6DB77529A77494B0525126A2BA141543831F9AA597</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>0ff63b3c-cd16-426f-9dd5-152a91d4bac8_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>0ff63b3c-cd16-426f-9dd5-152a91d4bac8_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,32 +26,32 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-29T18:23:01.081</Modified>
+      <Modified>2023-11-29T18:44:03.486</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-29T18:23:00.693</Modified>
+      <Modified>2023-11-29T18:44:03.191</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AlvarezApuntesApp.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AlvarezApuntesApp.runtimeconfig.json">
       <PackagePath>AlvarezApuntesApp.runtimeconfig.json</PackagePath>
-      <Modified>2023-11-29T12:40:30.333</Modified>
+      <Modified>2023-11-29T18:44:03.025</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AlvarezApuntesApp.dll">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AlvarezApuntesApp.dll">
       <PackagePath>AlvarezApuntesApp.dll</PackagePath>
-      <Modified>2023-11-29T18:22:58.863</Modified>
+      <Modified>2023-11-29T18:44:01.862</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AlvarezApuntesApp.exe</PackagePath>
-      <Modified>2023-11-29T18:22:58.870</Modified>
+      <Modified>2023-11-29T18:44:01.888</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AlvarezApuntesApp.deps.json">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AlvarezApuntesApp.deps.json">
       <PackagePath>AlvarezApuntesApp.deps.json</PackagePath>
-      <Modified>2023-11-29T18:23:00.569</Modified>
+      <Modified>2023-11-29T18:44:02.927</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\julis\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.18\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1077,255 +1077,255 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-04-24T18:09:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-11-29T12:40:06.960</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-11-29T12:40:20.793</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-11-29T12:40:20.822</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-11-29T12:40:20.864</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-11-29T12:40:20.940</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-11-29T12:40:21.152</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-11-29T12:40:06.958</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-11-29T12:40:06.959</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-11-29T13:07:56.982</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-11-29T13:07:57.254</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-11-29T13:07:57.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-11-29T13:07:57.274</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-11-29T13:07:57.291</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-11-29T13:07:57.352</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-11-29T13:07:57.052</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-11-29T13:07:57.054</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-11-29T13:07:57.068</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-11-29T13:07:57.057</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-11-29T13:07:57.060</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-11-29T13:07:57.033</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-11-29T13:07:57.036</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-11-29T13:07:57.049</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-11-29T13:07:57.039</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-11-29T13:07:57.041</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-11-29T13:07:56.993</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-11-29T13:07:56.997</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-11-29T13:07:57.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-11-29T13:07:57.004</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-11-29T13:07:57.009</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-11-29T13:07:57.012</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-11-29T13:07:57.014</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-11-29T13:07:57.029</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-11-29T13:07:57.017</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-11-29T13:07:57.020</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-11-29T13:07:57.119</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-11-29T13:07:57.125</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-11-29T13:07:57.133</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-11-29T13:07:57.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-11-29T13:07:57.162</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-11-29T13:07:57.091</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-11-29T13:07:57.094</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-11-29T13:07:57.098</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-11-29T13:07:57.103</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-11-29T13:07:57.113</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-11-29T13:07:57.071</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-11-29T13:07:57.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-11-29T13:07:57.078</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-11-29T13:07:57.081</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-11-29T13:07:57.088</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-11-29T13:07:57.169</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-11-29T13:07:57.176</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-11-29T13:07:57.185</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-11-29T13:07:57.203</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-11-29T13:07:57.241</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-11-29T13:07:56.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-11-29T13:07:56.977</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-11-29T13:07:56.990</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-11-29T13:07:57.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-11-29T13:07:57.065</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\informacion.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\informacion.scale-100.png">
       <PackagePath>informacion.scale-100.png</PackagePath>
       <Modified>2023-11-29T12:51:20.005</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\informacionchiquito.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\informacionchiquito.scale-100.png">
       <PackagePath>informacionchiquito.scale-100.png</PackagePath>
       <Modified>2023-11-29T12:57:18.329</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\lapiz.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\lapiz.scale-100.png">
       <PackagePath>lapiz.scale-100.png</PackagePath>
       <Modified>2023-11-29T12:58:19.725</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\notasimage.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\notasimage.scale-100.png">
       <PackagePath>notasimage.scale-100.png</PackagePath>
       <Modified>2023-11-29T12:50:45.957</Modified>
     </AppxPackagedFile>

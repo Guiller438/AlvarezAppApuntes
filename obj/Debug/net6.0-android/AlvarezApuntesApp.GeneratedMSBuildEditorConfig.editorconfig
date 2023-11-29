@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AlvarezApuntesApp
-build_property.ProjectDir = C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\
+build_property.ProjectDir = C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\
 
-[C:/Users/julis/OneDrive/Desktop/ProgramacionGuillermito/AlvarezApuntesApp/AlvarezViews/AlvarezAboutPage.xaml]
+[C:/Users/julis/OneDrive/Documents/AlvarezApuntesApp/AlvarezViews/AlvarezAboutPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AlvarezApuntesApp.AlvarezViews.AlvarezAboutPage.xaml
 build_metadata.AdditionalFiles.TargetPath = AlvarezViews\AlvarezAboutPage.xaml
 build_metadata.AdditionalFiles.RelativePath = AlvarezViews\AlvarezAboutPage.xaml
 
-[C:/Users/julis/OneDrive/Desktop/ProgramacionGuillermito/AlvarezApuntesApp/AlvarezViews/AlvarezAllNotesPages.xaml]
+[C:/Users/julis/OneDrive/Documents/AlvarezApuntesApp/AlvarezViews/AlvarezAllNotesPages.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AlvarezApuntesApp.AlvarezViews.AlvarezAllNotesPages.xaml
 build_metadata.AdditionalFiles.TargetPath = AlvarezViews\AlvarezAllNotesPages.xaml
 build_metadata.AdditionalFiles.RelativePath = AlvarezViews\AlvarezAllNotesPages.xaml
 
-[C:/Users/julis/OneDrive/Desktop/ProgramacionGuillermito/AlvarezApuntesApp/AlvarezViews/AlvarezNotePage.xaml]
+[C:/Users/julis/OneDrive/Documents/AlvarezApuntesApp/AlvarezViews/AlvarezNotePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AlvarezApuntesApp.AlvarezViews.AlvarezNotePage.xaml
 build_metadata.AdditionalFiles.TargetPath = AlvarezViews\AlvarezNotePage.xaml
 build_metadata.AdditionalFiles.RelativePath = AlvarezViews\AlvarezNotePage.xaml
 
-[C:/Users/julis/OneDrive/Desktop/ProgramacionGuillermito/AlvarezApuntesApp/App.xaml]
+[C:/Users/julis/OneDrive/Documents/AlvarezApuntesApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AlvarezApuntesApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/julis/OneDrive/Desktop/ProgramacionGuillermito/AlvarezApuntesApp/AppShell.xaml]
+[C:/Users/julis/OneDrive/Documents/AlvarezApuntesApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AlvarezApuntesApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/julis/OneDrive/Desktop/ProgramacionGuillermito/AlvarezApuntesApp/Resources/Styles/Colors.xaml]
+[C:/Users/julis/OneDrive/Documents/AlvarezApuntesApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AlvarezApuntesApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/julis/OneDrive/Desktop/ProgramacionGuillermito/AlvarezApuntesApp/Resources/Styles/Styles.xaml]
+[C:/Users/julis/OneDrive/Documents/AlvarezApuntesApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AlvarezApuntesApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

@@ -1,1 +1,1 @@
-C:\Users\julis\OneDrive\Desktop\ProgramacionGuillermito\AlvarezApuntesApp\AlvarezApuntesApp.csproj;x64
+C:\Users\julis\OneDrive\Documents\AlvarezApuntesApp\AlvarezApuntesApp.csproj;x64

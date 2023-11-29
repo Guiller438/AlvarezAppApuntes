@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u4wFzVCTzPRKfXUmXz5jHDu6v3jb/9phYbeIib0aJeGXX/EM2TU3h5rlebKnQ5HMdu5KtVO98K9kjCJjWBs4iA==",
+  "dgSpecHash": "Nd9vyPwx0DyAf3Ntq055YMWsLBVNMreOPrqu2N6TUSW5YTJZDk7jnv1/KDQyjV21HTSW1eHSVMlgXu9BmZLGsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\julis\\OneDrive\\Desktop\\ProgramacionGuillermito\\AlvarezApuntesApp\\AlvarezApuntesApp.csproj",
+  "projectFilePath": "C:\\Users\\julis\\OneDrive\\Documents\\AlvarezApuntesApp\\AlvarezApuntesApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\julis\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\julis\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
